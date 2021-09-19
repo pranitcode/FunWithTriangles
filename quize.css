@@ -26,7 +26,22 @@ padding-left: 2rem;
 #outptbox{
     margin-top:4rem;
 }
+.homebtn {
+    margin-top:2rem;
+    background-color:  rgb(124, 58, 237);
+    outline: none;
+    width: 10rem;
+    border: none;
+    padding: 0.3rem 3rem 0.3rem 3rem;
+    font-weight: bold;
+    text-align: center;
+align-items: center;
+    display: inline-block;
 
+color: black;
+    border-radius: .5rem;
+    text-decoration:none;
+  }
 
    button {
     margin-top:1rem;
